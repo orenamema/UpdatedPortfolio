@@ -1,6 +1,6 @@
 # UpdatedPortfolio
 # Introduction
-
+The purpose of this project is to update my portfolio page as well my Github and Linkedin profile. I have used HTML and CSS to update the content on my Portfolio Page and the style of it.
 
 ## Website
 

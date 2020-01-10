@@ -4,17 +4,18 @@
 
 ## Website
 
+![alt text](https://github.com/orenamema/UpdatedPortfolio/raw/master/assets/images/updated.gif)
+
 Here is the [link](https://orenamema.github.io/UpdatedPortfolio/) to the updated page
 
 ## Requirements
-Following are the requirements taht I've followed for this project:
+
+Following are the requirements that I've followed for this project:
 
 * Updated portfolio featuring project 1 and two exemplary homework assignments. 
 * Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments. 
 * Updated resume
 * Updated LinkedIn profile
-
-## Code
 
 ### Updated Portfolio
 My updated site includes the following content:
@@ -48,3 +49,43 @@ I have Submitted a clear, concise and compelling resume, tailored to the type of
 ### Updated LinkedIn Profile 
 I have updated my LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
 
+## Code
+In the code I have updated the pictures with the screenshots of the deployed application that I wanted to highlight. I have also added the link and the title of every application under the screenshots.
+
+```<div class="row">
+                    <div class="col-sm-6">
+                        <div id="nycCard" class="card" style="width: 18rem;">
+                                <img src="assets/images/password.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                <p class="card-text"> <a href="https://orenamema.github.io/Mythirdhomework/"> Password Project </a> </p>
+                                </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 ">
+                        <div id="rioCard" class="card" style="width: 18rem;">
+                                <img src="assets/images/quiz.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                <p class="card-text"><a href="https://orenamema.github.io/Quiz-Portfolio/"> Quiz Project </a></p>
+                                </div>
+                        </div>  
+                    </div>
+                </div>  
+                <br> 
+                <div class="row">
+                        <div class="col-sm-6">
+                            <div id="chiCard" class="card" style="width: 18rem;">
+                                <img src="assets/images/weather.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                    <p class="card-text"> <a href="https://orenamema.github.io/Weatherdashboard-Portfolio/"> Weather Project </a></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div id="parCard" class="card" style="width: 18rem;">
+                                <img src="assets/images/weathereats.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                    <p class="card-text"> <a href="https://xrachhel.github.io/weatherEats/"> WeatherEats Project </a></p>
+                                </div>
+                            </div>  
+                        </div>
+                </div> 
